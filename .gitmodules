@@ -1,0 +1,3 @@
+[submodule "cicd-pipeline-train-schedule-pipelines"]
+	path = cicd-pipeline-train-schedule-pipelines
+	url = https://github.com/linuxacademy/cicd-pipeline-train-schedule-pipelines.git
